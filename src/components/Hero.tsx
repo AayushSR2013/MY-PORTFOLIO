@@ -75,7 +75,7 @@ export const Hero = () => {
           className="flex flex-wrap justify-center gap-4"
         >
           <motion.a
-            href="/resume.pdf"
+            href="/Aayush_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
